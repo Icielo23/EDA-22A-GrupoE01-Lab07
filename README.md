@@ -60,7 +60,7 @@
 ### I.	SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 #	
 1.  Implementar una tabla hash en base a los métodos definidos en la interfaz del archivo HashTable.java
-	- Deben contemplar como mínimo el desarrollo de todos los métodos en su clase
+	- Deben contemplar como mínimo el desarrollo de todos los métodos en su clase1
 	- Deben manejar las colisiones por Encadenamiento (Lista enlazada) y Sondeo Lineal.
 	- Es posible agregar otros métodos que les ayuden a su resolución.
 	- Crear un archivo de test donde incluyen casos de prueba.
